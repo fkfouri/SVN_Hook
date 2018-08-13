@@ -1,0 +1,10 @@
+{
+	"config": [
+	{
+		"user": "login1",
+		"extensions": [".js", ".css"]
+	}, {
+		"user": "login2",
+		"extensions": [".js", ".css"]
+	}]
+}

@@ -1,0 +1,9 @@
+bin/debug/
+bin/release/
+bin/x86/
+obj/debug/
+obj/release/
+obj/x86/
+testresults/
+node_modules/
+.vs/
