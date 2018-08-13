@@ -18,6 +18,7 @@ Friend Class Ignore_Extensions
 
         Dim ErrorsCollection As New ArrayList
 
+
         Dim ignoredExtensions As Object() = ReadFile(repos, "_ignore-extensions.txt")
         Dim specialReleased As Object() = ReadFileJson(repos, "_released-files-by-users.json", author.ToLower.Trim)
 
